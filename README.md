@@ -16,3 +16,12 @@ You can run this in any port
 ## Backend
 You must run this in port 3000.
 
+## Screennshots
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Live-Canvas-Web-App/master/Screenshots/1.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Live-Canvas-Web-App/master/Screenshots/2.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Live-Canvas-Web-App/master/Screenshots/3.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Live-Canvas-Web-App/master/Screenshots/4.png" width="300"/>
+  <img src="https://raw.githubusercontent.com/Aryanka-Pawar/Live-Canvas-Web-App/master/Screenshots/5.png" width="300"/>
+</p>
+
